@@ -11,7 +11,8 @@ This extension provides code snippets for implementing the following data struct
 - Linked List (use :linkedlist annotation)
 - Graph (use :graph annotation)
 - Tree (use :tree annotation)
--Binary Tree (use :binarytree annotation)
+- Binary Tree (use :binarytree annotation) 
+
 Each code snippet comes with necessary functions and methods, enabling you to quickly scaffold your data structure implementations.
 
 MORE IMPLEMENTATIONS AND ALGORITHMS ARE GOING TO TO UPDATE IN NEWER VERSION
