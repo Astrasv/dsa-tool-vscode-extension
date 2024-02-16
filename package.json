@@ -1,0 +1,25 @@
+{
+  "name": "dsa-tool",
+  "displayName": "DSA tool",
+  "description": "This extension allows DSA learners to directly implement some of the famous data structures and algorithms code snippets for programming ease",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Astrasv/dsa-learning-tool-vscode-extension"
+  },
+  "icon":"icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
