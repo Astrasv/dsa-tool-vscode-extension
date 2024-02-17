@@ -1,5 +1,9 @@
 # dsa-tool README
 
+<p align="center">
+  <img width="400" height="400" src="https://github.com/Astrasv/dsa-tool-vscode-extension/assets/116169969/8b987907-ed7e-4b39-82c1-42501859bdb2">
+</p>
+
 Welcome to the README for the "DSA-Tool" extension! This extension aims to facilitate the implementation of various data structures and algorithms in Python within Visual Studio Code. Below, you'll find information about the features, requirements, extension settings, known issues, release notes, and working with Markdown.
 
 ## Features
